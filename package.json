@@ -1,0 +1,17 @@
+{
+  "name": "atomic-slack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.9.1",
+    "dotenv": "^0.5.1",
+    "react": "^0.13.0-rc1",
+    "slack-client": "^1.4.0"
+  }
+}
